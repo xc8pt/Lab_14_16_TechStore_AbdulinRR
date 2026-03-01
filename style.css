@@ -256,7 +256,6 @@ body {
     box-shadow: 0 8px 25px rgba(79, 172, 254, 0.6);
 }
 
-
 .buy-btn {
     width: 100%;
     background: linear-gradient(45deg, #ff0000, #ff4444);
@@ -480,7 +479,6 @@ body {
         padding: 6px 12px;
     }
 }
-
 
 .text-center {
     text-align: center;
